@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SummaryCalculation (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SummaryCalculation (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
